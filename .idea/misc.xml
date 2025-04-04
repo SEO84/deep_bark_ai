@@ -3,6 +3,7 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (deep_bark_ai)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="deep_bark_ai" project-jdk-type="Python SDK" />
   <component name="ProjectType">
     <option name="id" value="io.flutter" />
   </component>

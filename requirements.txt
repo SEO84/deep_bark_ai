@@ -1,5 +1,7 @@
-Flask
-tensorflow
-numpy
-Pillow
+Flask>=2.0
+Pillow>=8.0
+numpy>=1.19
+torch>=1.8        # PyTorch 추가
+torchvision>=0.9  # Torchvision 추가 (전처리에 사용)
+# tensorflow>=2.5 # TensorFlow 제거 또는 주석 처리
 gunicorn
